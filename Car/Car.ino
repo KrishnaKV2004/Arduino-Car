@@ -5,7 +5,10 @@
     Requirements -->
 
     • Arduino
+    • Arduino IDE
     • L293D Motor Shield
+    • HC-05 Bluetooth Module
+    • Ultrasonic Sensor
 */
 
 #include <AFMotor.h>
