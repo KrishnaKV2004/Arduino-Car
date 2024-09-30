@@ -1,3 +1,13 @@
+/*
+    Arduino Car
+    Author --> Krishna Verma
+
+    Requirements -->
+
+    • Arduino
+    • L293D Motor Shield
+*/
+
 #include <AFMotor.h>
 #include <SoftwareSerial.h>
 
